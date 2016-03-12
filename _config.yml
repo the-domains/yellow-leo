@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.796164
+  lightness: 0.672845
+  rhythmicContrast: 0.692467
+  saturation: 0.584517
+cta: {}
+layout_spectrum: 0.649147
+name: Yellow Leo
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7400984896151797
