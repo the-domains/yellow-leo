@@ -1,4 +1,19 @@
-analytics: {}
+name: Yellow Leo
+favicon: null
+layout_spectrum: 0.649147
+typography_spectrum: 0.7400984896151797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -8,11 +23,9 @@ color:
     - '#A2E3C4'
   brandStrength: 0.796164
   lightness: 0.672845
-  rhythmicContrast: 0.692467
   saturation: 0.584517
-cta: {}
-layout_spectrum: 0.649147
-name: Yellow Leo
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.7400984896151797
+  rhythmicContrast: 0.692467
+purpose:
+  - name: null
+    item: null
+    url: null
